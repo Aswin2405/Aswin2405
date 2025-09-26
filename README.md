@@ -2,7 +2,7 @@
 
 <!-- Banner or cool intro GIF (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aswin+👋;MERN+Stack+Developer;React+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aswin+👋;MERN+Stack+Developer;React+Native+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
