@@ -21,42 +21,21 @@
 **Backend**: Node.js, Express, NestJS  
 **Mobile**: React Native  
 **Database**: MongoDB, PostgreSQL, MySQL  
-**Tools**: Git, Docker, AWS, Redis, WebSockets  
+**Tools**: Git, Jira, Redis, WebSockets  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-### ⏳ Coding Activity (WakaTime)
-<!-- Requires WakaTime integration -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)](https://wakatime.com/)
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://dev.to/your-devto"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="mailto:aswin24dev.r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aswin-r-53720a1ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### ☕ Support My Work
-If you like what I build or teach, consider buying me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourid)
 
----
-
-### 🏆 Achievements
-- 🌟 Contributed to 10+ open source projects  
+### 🏆 Achievements  
 - 🎯 4+ years professional experience in frontend development  
 - 💡 Speaker & mentor for junior developers  
 
