@@ -2,7 +2,7 @@
 
 <!-- Banner or cool intro GIF (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Your+Name+👋;MERN+Stack+Developer;React+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aswin+👋;MERN+Stack+Developer;React+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 💻 Full-stack JavaScript developer (MERN + React Native)  
 - 🚀 Passionate about building scalable web & mobile apps  
-- 🎥 Teaching coding on **[YouTube](https://youtube.com/yourchannel)**  
+- 🎥 Teaching coding on **[YouTube](https://www.youtube.com/@CodeWithAswin)**  
 - 🌱 Currently exploring **System Design & Advanced Frontend**  
 - 📍 Based in India | Open for freelance/remote opportunities  
 
